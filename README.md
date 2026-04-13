@@ -526,4 +526,4 @@ git commit -m "Add README completo com passo a passo"
 git push
 ```
 
-Pronto! README super detalhado com passo a passo de criação! 🚀
+
